@@ -355,6 +355,7 @@
 				DEVELOPMENT_TEAM = LLHYDF6CQY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = GoLife/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Life Style";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -385,6 +386,7 @@
 				DEVELOPMENT_TEAM = LLHYDF6CQY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = GoLife/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Life Style";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
