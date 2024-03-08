@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="23B81" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Action" representedClassName="Action" syncable="YES" codeGenerationType="class">
+        <attribute name="aaction" optional="YES" attributeType="String"/>
+        <attribute name="ddate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="Entityy" representedClassName="Entityy" syncable="YES" codeGenerationType="class">
+        <attribute name="chislo" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="ddate" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Show" representedClassName="Show" syncable="YES" codeGenerationType="class">
+        <attribute name="iss" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
 </model>

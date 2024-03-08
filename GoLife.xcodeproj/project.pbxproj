@@ -9,23 +9,35 @@
 /* Begin PBXBuildFile section */
 		22EB5E272B9B272900048F26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E262B9B272900048F26 /* AppDelegate.swift */; };
 		22EB5E292B9B272900048F26 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E282B9B272900048F26 /* SceneDelegate.swift */; };
-		22EB5E2B2B9B272900048F26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E2A2B9B272900048F26 /* ViewController.swift */; };
 		22EB5E2E2B9B272900048F26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22EB5E2C2B9B272900048F26 /* Main.storyboard */; };
 		22EB5E312B9B272900048F26 /* GoLife.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E2F2B9B272900048F26 /* GoLife.xcdatamodeld */; };
 		22EB5E332B9B272B00048F26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22EB5E322B9B272B00048F26 /* Assets.xcassets */; };
 		22EB5E362B9B272B00048F26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22EB5E342B9B272B00048F26 /* LaunchScreen.storyboard */; };
+		22EB5E422B9B2BC600048F26 /* AddNewTaskkVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E3F2B9B2BC600048F26 /* AddNewTaskkVC.swift */; };
+		22EB5E432B9B2BC600048F26 /* CalendarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E402B9B2BC600048F26 /* CalendarVC.swift */; };
+		22EB5E442B9B2BC600048F26 /* CalendarDM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E412B9B2BC600048F26 /* CalendarDM.swift */; };
+		22EB5E462B9B2C3C00048F26 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E452B9B2C3C00048F26 /* TabBar.swift */; };
+		22EB5E4A2B9B302700048F26 /* PlusOneDM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E492B9B302700048F26 /* PlusOneDM.swift */; };
+		22EB5E4C2B9B306B00048F26 /* PlusOneVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E4B2B9B306B00048F26 /* PlusOneVC.swift */; };
+		22EB5E4E2B9B315700048F26 /* ORViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EB5E4D2B9B315700048F26 /* ORViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		22EB5E232B9B272900048F26 /* GoLife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoLife.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22EB5E262B9B272900048F26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22EB5E282B9B272900048F26 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		22EB5E2A2B9B272900048F26 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		22EB5E2D2B9B272900048F26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		22EB5E302B9B272900048F26 /* GoLife.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = GoLife.xcdatamodel; sourceTree = "<group>"; };
 		22EB5E322B9B272B00048F26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22EB5E352B9B272B00048F26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22EB5E372B9B272B00048F26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22EB5E3F2B9B2BC600048F26 /* AddNewTaskkVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNewTaskkVC.swift; sourceTree = "<group>"; };
+		22EB5E402B9B2BC600048F26 /* CalendarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarVC.swift; sourceTree = "<group>"; };
+		22EB5E412B9B2BC600048F26 /* CalendarDM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarDM.swift; sourceTree = "<group>"; };
+		22EB5E452B9B2C3C00048F26 /* TabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		22EB5E492B9B302700048F26 /* PlusOneDM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOneDM.swift; sourceTree = "<group>"; };
+		22EB5E4B2B9B306B00048F26 /* PlusOneVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlusOneVC.swift; sourceTree = "<group>"; };
+		22EB5E4D2B9B315700048F26 /* ORViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ORViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +70,10 @@
 		22EB5E252B9B272900048F26 /* GoLife */ = {
 			isa = PBXGroup;
 			children = (
+				22EB5E3E2B9B2BA400048F26 /* Controller */,
+				22EB5E3D2B9B2B9B00048F26 /* Helper */,
 				22EB5E262B9B272900048F26 /* AppDelegate.swift */,
 				22EB5E282B9B272900048F26 /* SceneDelegate.swift */,
-				22EB5E2A2B9B272900048F26 /* ViewController.swift */,
 				22EB5E2C2B9B272900048F26 /* Main.storyboard */,
 				22EB5E322B9B272B00048F26 /* Assets.xcassets */,
 				22EB5E342B9B272B00048F26 /* LaunchScreen.storyboard */,
@@ -68,6 +81,43 @@
 				22EB5E2F2B9B272900048F26 /* GoLife.xcdatamodeld */,
 			);
 			path = GoLife;
+			sourceTree = "<group>";
+		};
+		22EB5E3D2B9B2B9B00048F26 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				22EB5E412B9B2BC600048F26 /* CalendarDM.swift */,
+				22EB5E492B9B302700048F26 /* PlusOneDM.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		22EB5E3E2B9B2BA400048F26 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				22EB5E482B9B2FFD00048F26 /* PlusOne */,
+				22EB5E472B9B2FEF00048F26 /* Calendar */,
+				22EB5E452B9B2C3C00048F26 /* TabBar.swift */,
+				22EB5E4D2B9B315700048F26 /* ORViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		22EB5E472B9B2FEF00048F26 /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				22EB5E402B9B2BC600048F26 /* CalendarVC.swift */,
+				22EB5E3F2B9B2BC600048F26 /* AddNewTaskkVC.swift */,
+			);
+			path = Calendar;
+			sourceTree = "<group>";
+		};
+		22EB5E482B9B2FFD00048F26 /* PlusOne */ = {
+			isa = PBXGroup;
+			children = (
+				22EB5E4B2B9B306B00048F26 /* PlusOneVC.swift */,
+			);
+			path = PlusOne;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,10 +191,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22EB5E2B2B9B272900048F26 /* ViewController.swift in Sources */,
+				22EB5E432B9B2BC600048F26 /* CalendarVC.swift in Sources */,
+				22EB5E4A2B9B302700048F26 /* PlusOneDM.swift in Sources */,
+				22EB5E442B9B2BC600048F26 /* CalendarDM.swift in Sources */,
+				22EB5E4C2B9B306B00048F26 /* PlusOneVC.swift in Sources */,
 				22EB5E312B9B272900048F26 /* GoLife.xcdatamodeld in Sources */,
 				22EB5E272B9B272900048F26 /* AppDelegate.swift in Sources */,
+				22EB5E422B9B2BC600048F26 /* AddNewTaskkVC.swift in Sources */,
+				22EB5E4E2B9B315700048F26 /* ORViewController.swift in Sources */,
 				22EB5E292B9B272900048F26 /* SceneDelegate.swift in Sources */,
+				22EB5E462B9B2C3C00048F26 /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,11 +355,13 @@
 				DEVELOPMENT_TEAM = LLHYDF6CQY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = GoLife/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -327,11 +385,13 @@
 				DEVELOPMENT_TEAM = LLHYDF6CQY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = GoLife/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
